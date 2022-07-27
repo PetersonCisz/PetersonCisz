@@ -1,4 +1,7 @@
 ### Olá! Eu sou o Peterson Cisz 👋
+
+- Sou estudante de progrção.
+
 ##
 <div align = "center">
   <a href="https://github.com/PetersonCisz">
